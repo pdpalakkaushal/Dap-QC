@@ -1,0 +1,10 @@
+streamlit
+playwright
+requests
+pandas
+numpy
+pillow
+opencv-python-headless
+xlsxwriter
+sentence-transformers
+torch
